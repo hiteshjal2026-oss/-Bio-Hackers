@@ -1,0 +1,6 @@
+{
+  "name": "GenWorks Studio",
+  "description": "Apple-designed workspace and EdTech platform for builders and skilled workers, featuring interactive workplace maps, course enrollment, multilingual tool learning in 8 languages, and administrator controls.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
